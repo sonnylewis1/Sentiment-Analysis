@@ -4,4 +4,4 @@ A sentiment analysis project using python to analyze Twitter Users' reflections 
 
 This project was carried out using Natural Language Processing (NLP) Techniques
 
-The jupyter notebook "sentiment analysis.ipynb" contains the analysis on detail.
+The jupyter notebook "sentiment analysis.ipynb" contains the analysis in detail.
